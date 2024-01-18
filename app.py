@@ -14,7 +14,7 @@ logo = "https://i.imgur.com/UbOXYAU.png"
 st.sidebar.image(logo)
 
 # Customize page title
-st.title("Earth Engine Web App")
+st.title("Earth Engine Web App-Eunhee")
 
 st.markdown(
     """
@@ -25,7 +25,7 @@ st.markdown(
 st.header("Instructions")
 
 markdown = """
-1. For the [GitHub repository](https://github.com/giswqs/geemap-apps) or [use it as a template](https://github.com/new?template_name=geemap-apps&template_owner=giswqs) for your own project.
+1. 안녕하세요. For the [GitHub repository](https://github.com/giswqs/geemap-apps) or [use it as a template](https://github.com/new?template_name=geemap-apps&template_owner=giswqs) for your own project.
 2. Customize the sidebar by changing the sidebar text and logo in each Python files.
 3. Find your favorite emoji from https://emojipedia.org.
 4. Add a new app to the `pages/` directory with an emoji in the file name, e.g., `1_🚀_Chart.py`.
